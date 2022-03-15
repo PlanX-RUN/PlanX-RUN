@@ -19,3 +19,4 @@ Tech Skills<br>
 <img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/PHP-Dark.svg" width="40">
 <img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/Photoshop.svg" width="40">
 </div><br>
+Some Skills Do Not Have Icons, I Will Upload Icons.
