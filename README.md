@@ -25,9 +25,7 @@ Tech Skills<br>
 <img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/HTML.svg" width="40">
 <img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/PHP-Dark.svg" width="40">
 <img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/Photoshop.svg" width="40">
-<div style="display: flex;">
-<img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/Firebase-Dark.svg" width="40">
-<img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/Flutter-Dark.svg" width="40">
+
 Social Networking
 <div style="display: flex;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="40">
