@@ -5,6 +5,7 @@ Main Skills<br>
 <img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/Flutter-Dark.svg" width="40">
 <img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/React-Dark.svg" width="40">
 <img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/VSCode-Dark.svg" width="40">
+<img src="https://github.com/PlanX-RUN/PlanX-RUN/blob/main/DotNet.svg" width="40">
 </div><br>
 Tech Skills<br>
 <div style="display: flex;">
